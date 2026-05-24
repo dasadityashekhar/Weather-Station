@@ -5,6 +5,10 @@ An IoT-based smart weather monitoring station installed inside the college campu
 The system continuously monitors multiple atmospheric and air-quality parameters using various sensors connected to an ESP32. Data is uploaded to Google Sheets over WiFi for remote monitoring and analysis.
 
 ---
+## 🔗 Project Links
+
+- Website: [SIGNODES Weather Station Dashboard](https://signodes.netlify.app/)
+---
 
 ## 🚀 Features
 
@@ -152,11 +156,17 @@ ArduinoOTA
 ---
 
 
-
 ## 👨‍💻 Developed By
 
-Developed by the college technical club team for real-time environmental monitoring inside the campus.
+Developed by members of the SIGNODES Technical Club for real-time environmental monitoring and atmospheric data collection inside the college campus.
 
+### My Contribution
+- ESP32 firmware development
+- Sensor interfacing
+- OTA integration
+- Google Sheets cloud logging
+- WiFi provisioning system
+- Data acquisition and debugging
 ---
 
 ## 📜 License
